@@ -1,0 +1,168 @@
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .container {
+    border: 0px;
+    width: 320px;
+    margin-top: 49px;
+  }
+
+  #page-1 {
+    position: relative;
+    margin-top: 0;
+    height: 483px;
+  }
+
+  .inner-c {
+    width: 320px;
+    margin: auto;
+    margin-top: 44px;
+  }
+
+  .upper-div {
+    display: flex;
+    justify-content: space-around;
+    height: 66px;
+    width: 286px;
+  }
+  .inside-ud-1 {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .container .inner-c .upper-div .inside-ud-2 {
+    margin-top: 0px;
+  }
+
+  .container .inner-c .upper-div .inside-ud-2 .img-plus {
+    margin-top: 15px;
+    margin-right: 0px;
+  }
+  .container .inner-c .upper-div .inside-ud-2 .inside-add {
+    display: none;
+  }
+
+  .lower-div {
+    display: block;
+    width: 242px;
+    margin: auto;
+  }
+  .container .inner-c .lower-div .card-1 hr {
+    display: none;
+  }
+  .container .inner-c .lower-div .card-1 h5 {
+    display: none;
+  }
+  .container .inner-c .lower-div .card-1 input {
+    display: none;
+  }
+  .container .inner-c .lower-div .card-1 span {
+    display: none;
+  }
+  .container .inner-c .lower-div .card-1 {
+    height: 63px;
+    width: 245px;
+    border: 1px solid #a09d9d8f;
+    border-radius: 6px;
+    margin: 18px -23px;
+    box-shadow: 3px 3px 6px #a09d9dbd;
+    display: block;
+  }
+  .container .inner-c .lower-div .card-1 h3 {
+    text-align: start;
+    font-size: 15px;
+    color: #6e6d6d;
+    margin-left: 12px;
+  }
+  .next-btn {
+    right: 61px;
+    bottom: -44px;
+  }
+  .next-btn2 {
+    right: 60px;
+    bottom: 0px;
+  }
+  .container .next-btn a button:hover {
+    cursor: pointer;
+    background: linear-gradient(158deg, #e74c3c, #ab9a9a);
+    color: white;
+  }
+  .container .inner-c .lower-div .card-1 h4 {
+    display: block;
+    margin: 25px 12px;
+    color: #7e7c7c;
+    font-weight: 300;
+  }
+  .container .inner-c .lower-div .card-1 h3 {
+    display: none;
+  }
+  .travel-d {
+    width: 244px;
+  }
+  .travel-d h1 span {
+    position: absolute;
+    display: none;
+  }
+  .container .travel-d .inside-ud-2 .inside-add {
+    display: none;
+  }
+  .container .travel-d .inside-ud-2 {
+    margin-top: -39px;
+    justify-content: flex-start;
+    margin-left: -13px;
+  }
+  .container .travel-d .lower-div .card-1 {
+    height: 323px;
+    width: 221px;
+    margin-top: 52px;
+    margin-left: 8px;
+  }
+  .container .travel-d .lower-div .card-1 .hori-line {
+    width: 152px;
+    margin-top: 10px;
+    margin-left: 67px;
+    height: 1px;
+    display: block;
+    background: #4a4949;
+  }
+  .container .travel-d .lower-div .card-1 .hori-line2 {
+    display: none;
+  }
+  .container .travel-d .lower-div .card-1 h5 {
+    display: none;
+  }
+  .container .travel-d .lower-div .card-1 .comp-task {
+    margin-top: 27px;
+    margin-left: 58px;
+    display: block;
+    color: #dc3321;
+    font-size: 15px;
+  }
+  .container .travel-d .lower-div .card-1 .hori-line4 {
+    display: none;
+  }
+  .container .travel-d .lower-div .card-1 .hori-line3 {
+    background-color: #dc3321;
+    height: 2px;
+    width: 108px;
+    display: block;
+    margin-left: 54px;
+    margin-top: -10px;
+  }
+  .container .travel-d .lower-div .card-1 input {
+    margin-top: 32px;
+    margin-left: 36px;
+  }
+  .container-blur {
+    position: absolute;
+    top: 80px;
+    left: 38px;
+  }
+  .blur-card {
+    width: 245px;
+  }
+  .container-blur .blur-card .div-2 input {
+    width: 151px;
+  }
+  .blur-main {
+    filter: blur(10px);
+  }
+}
